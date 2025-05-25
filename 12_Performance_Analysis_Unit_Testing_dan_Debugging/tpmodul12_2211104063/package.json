@@ -1,0 +1,12 @@
+{
+  "name": "tpmodul12_2211104063",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "node test/testCariTandaBilangan.js"
+  },
+  "devDependencies": {
+    "electron": "^27.0.0"
+  }
+}
